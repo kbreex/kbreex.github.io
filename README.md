@@ -1,1 +1,2 @@
-# kbreex.github.io
+# Kaia Bourque
+# Computer Science Student at University of Alberta
